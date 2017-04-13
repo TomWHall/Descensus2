@@ -1,0 +1,13 @@
+body {
+  background: #000;
+  color: #f5cd2f;
+}
+
+#loading {
+  font-family: 'Times New Roman', 'serif';
+  text-align: center;
+}
+
+.playing-field {
+  cursor: crosshair !important;
+}

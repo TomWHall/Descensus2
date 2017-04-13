@@ -1,0 +1,29 @@
+{
+  "name": "descensus2",
+  "version": "1.0.2",
+  "description": "A 2D physics game",
+  "author": "Tom W Hall <tomshalls@gmail.com>",
+  "keywords": [
+    "game",
+    "physics",
+    "2D"
+  ],
+  "main": "./src/index.js",
+  "scripts": {
+    "dev": "webpack --progress --colors --watch",
+    "release": "webpack --progress --colors --watch"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "clean-webpack-plugin": "^0.1.15",
+    "copy-webpack-plugin": "^4.0.1",
+    "escompress-webpack-plugin": "^0.5.1",
+    "ts-loader": "^2.0.1",
+    "typescript": "^2.2.2",
+    "webpack": "^2.2.1",
+    "webpack-merge": "^3.0.0"
+  }
+}

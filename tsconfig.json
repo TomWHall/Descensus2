@@ -1,0 +1,12 @@
+{
+   "compileOnSave": true,
+   "compilerOptions": {
+       "noImplicitAny" : true,
+       "removeComments": false,
+       "preserveConstEnums": true,
+       "sourceMap": false,
+       "target": "es6",
+       "module": "commonjs",
+       "noEmitOnError": true
+   }
+}
