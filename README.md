@@ -3,7 +3,7 @@
 A 2D physics game written in TypeScript using p2.js for physics and Pixi.js for rendering.
 Bundled with Webpack. Targets ES6.
 
-[Online demo](http://booleanoperations.com/descensus2)
+[Online demo](https://tomwhall.github.io/descensus2)
 
 If you have an Android phone or tablet and would like to support me, please consider buying the game!
 
